@@ -95,3 +95,4 @@ Ces corrélations montrent des associations significatives entre certains indica
 - `plot_chol_box.png`  
 - `plot_age_thalach_scatter.png`  
 - `plot_corr_matrix.png`
+- <img src="KKKK.png" style="height:464px;margin-right:432px"/>

@@ -1,10 +1,6 @@
-Voici une **version optimisée pour GitHub**, avec une mise en page propre, des badges, une structure professionnelle et un rendu parfait pour un README.md.
-
-Tu peux le copier-coller directement dans ton dépôt GitHub.
-*(Je peux aussi te générer une version avec images, sections collapsibles, badges personnalisés, ou même un template complet.)*
-
----
-
+# MOHAMED AMINE ESSAMI
+# 21006293
+#
 # 🚀 Détection de Fraude – Analyse & Modélisation
 
 ### *Reporting Technique — Optimisé pour GitHub (README.md)*

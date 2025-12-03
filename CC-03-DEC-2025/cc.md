@@ -1,6 +1,6 @@
 # MOHAMED AMINE ESSAMI
 # 21006293
-#
+# <img src="Mohamed-Amine ESSAMI (1).jpg" style="height:464px;margin-right:432px"/>
 # 🚀 Détection de Fraude – Analyse & Modélisation
 
 ### *Reporting Technique — Optimisé pour GitHub (README.md)*
